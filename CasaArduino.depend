@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1555992897 source:c:\users\user\documents\umg\tercer semestre\programacion i\casaarduino\serialclass.cpp
+	"SerialClass.h"
+
+1402325218 c:\users\user\documents\umg\tercer semestre\programacion i\casaarduino\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1558071505 source:c:\users\user\documents\umg\tercer semestre\programacion i\casaarduino\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string>
+	<stdio.h>
+	"SerialClass.h"
+
